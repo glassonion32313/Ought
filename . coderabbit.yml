@@ -1,0 +1,1 @@
+# .coderabbit.yml # Basic configuration for Coderabbit # Enable Coderabbit for all pull requests reviews: enabled: true
